@@ -16,11 +16,10 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Angular Apps Projects
+- 🔭 I worked with Angular and have recently started using React
 - 🌱 I've 4+ years of professional experience and built many successful applications in Angular
 - 🎓 I have a Bachelors in Computer Science from the University of BZTE at Iran
 - 💡 I like to explore new technologies and develop software solutions
-- 📚 I’m currently learning C#...
 - ⚡ my hobbies: Swim , Spending time with my friends and Watching movies...
 
 <br>
