@@ -17,7 +17,7 @@
 ## About Me
 
 - 🔭 I worked with Angular and have recently started using React
-- 🌱 I've 4+ years of professional experience and built many successful applications in Angular
+- 🌱 I have 4+ years of professional experience building successful applications in Angular and have recently worked on a React project
 - 🎓 I have a Bachelors in Computer Science from the University of BZTE at Iran
 - 💡 I like to explore new technologies and develop software solutions
 - ⚡ my hobbies: Swim , Spending time with my friends and Watching movies...
