@@ -42,7 +42,7 @@
 ![REACT](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=REACT&logoColor=#61dafb)
 ![NEXT](https://img.shields.io/badge/-NEXT-000?style=flat-square&logo=NEXT&logoColor#575757)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=flat-square&logo=Redux&logoColor#7749bd)
-![React Query](https://img.shields.io/badge/-ReactQuery-000?style=flat-square&logo=ReactQuery&logoColor#7749bd)
+![React Query](https://img.shields.io/badge/-ReactQuery-000?style=flat-square&logo=ReactQuery&logoColor#ff4254)
 
 ### Misc tools:
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
