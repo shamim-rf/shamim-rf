@@ -40,7 +40,8 @@
 ![Kendo-UI](https://img.shields.io/badge/-Kendo_UI-000?style=flat-square&logo=Progress-Kendo-UI)
 ![NX](https://img.shields.io/badge/-NX-000?style=flat-square&logo=NX&logoColor=blue)
 ![REACT](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=REACT&logoColor=#61dafb)
-
+![NEXT](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=NEXT&logoColor#575757)
+![Redux](https://img.shields.io/badge/-REACT-000?style=flat-square&logo=Redux&logoColor#575757)
 
 ### Misc tools:
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
